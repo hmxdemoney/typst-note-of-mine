@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "skills": {
+    "typst-writer": {
+      "source": "ypares/agent-skills",
+      "sourceType": "github",
+      "skillPath": "typst-writer/SKILL.md",
+      "computedHash": "f40541d0a0d080bb3a98aa8ebe60e31c8214bba170d9d752f4659fdbfd30257a"
+    }
+  }
+}
